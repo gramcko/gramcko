@@ -12,4 +12,4 @@ Fullstack developer. I build software that takes the repetition out of the work.
 
 ## Elsewhere
 
-[Portfolio](https://gramcko.dev) · [LinkedIn](https://www.linkedin.com/in/carlos-gramcko/) · [Email](mailto:gramckocarlosluis@gmail.com)
+[gramcko.dev](https://gramcko.dev) · [LinkedIn](https://www.linkedin.com/in/carlos-gramcko/) · [Email](mailto:gramckocarlosluis@gmail.com)
