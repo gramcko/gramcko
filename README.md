@@ -1,5 +1,5 @@
 <p align="left">
-  <img width="90" src="./assets/globe.gif" alt="Wireframe globe" />
+  <img width="50" src="./assets/globe.gif" alt="Wireframe globe" />
 </p>
 
 # Carlos Gramcko
