@@ -1,3 +1,5 @@
+<img align="right" width="150" src="./assets/globe.gif" alt="Wireframe globe" />
+
 # Carlos Gramcko
 
 Fullstack developer. I build software that takes the repetition out of the work.
