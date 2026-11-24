@@ -1,4 +1,6 @@
-<img align="right" width="150" src="./assets/globe.gif" alt="Wireframe globe" />
+<p align="right">
+  <img width="150" src="./assets/globe.gif" alt="Wireframe globe" />
+</p>
 
 # Carlos Gramcko
 
