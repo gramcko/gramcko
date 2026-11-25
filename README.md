@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pfp-dark.svg">
+  <img align="right" width="175" src="./assets/pfp-light.svg" alt="Carlos Gramcko">
+</picture>
+
 <p align="left">
   <img width="50" src="./assets/globe.gif" alt="Wireframe globe" />
 </p>
